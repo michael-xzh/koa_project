@@ -1,5 +1,4 @@
-const koa = require("koa")
-const app = new koa()
+const app = require("./app/index")
 const config = require("./config/default")
 
 app.listen(config.APP_PORT, () => {
