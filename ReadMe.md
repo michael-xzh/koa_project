@@ -2,3 +2,4 @@
 ## 1 npm init
 # 二 初始化git
 ## git init
+# 三 创建ReadME文件
