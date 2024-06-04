@@ -6,7 +6,7 @@
 
 # 二 搭建项目
 ## 1 安装Koa框架
-### npm install koa
+### `npm install koa`
 ## 2 编写入口文件
 ## 3 安装dotenv依赖
 ### npm install dotenv
